@@ -23,6 +23,3 @@ drawnow
 
 disp(p1)
 disp(p2)
-
-%Kaia prøver å endre på noe
-%En gang til
