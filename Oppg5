@@ -1,0 +1,6 @@
+%Oppgave 5, prosjekt 3 numerisk
+
+matrise = zeros(16,16);
+matrise(7:10,7:10) = 1;
+sumRad = sum(matrise, 2);
+sumKol = sum(matrise, 1);
